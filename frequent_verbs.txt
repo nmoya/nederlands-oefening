@@ -1,0 +1,80 @@
+beginnen, begon, begonnen, to start
+bewegen, bewoog, bewogen , to move
+bekijken, bekeek, bekeken, see
+bieden, bood, geboden, offer
+blijken, bleek, gebleken, turn out
+blijven, bleef, gebleven, stay
+breken, brak, gebroken, break
+brengen, bracht, gebracht, bring
+denken, dacht, gedacht, to think
+doen, deed, gedaan, to do
+dragen, droeg, gedragen, to wear
+drinken, dronk, gedronken, drink
+eten, at, gegeten, food
+gaan, ging, gegaan, to go
+geven, gaf, gegeven, to give
+grijpen, greep, gegrepen, grab
+hangen, hing, gehangen, to hang
+hebben, had, gehad, to have
+helpen, hielp, geholpen, help out
+kiezen, koos, gekozen, select
+kijken, keek, gekeken, look
+kopen, kocht, gekocht, to buy
+krijgen, kreeg, gekregen, to get
+kunnen, kon, gekund, can
+laten, liet, gelaten, leave
+lezen, las, gelezen, read
+liggen, lag, gelegen, lie
+lopen, liep, gelopen, walk
+meten, mat, gemeten, measure
+moeten, moest, gemoeten, should
+mogen, mocht, gemogen, be allowed to
+nemen, nam, genomen, take
+opslaan, sloeg op, opgeslagen, save
+rijden, reed, gereden, to drive
+roepen, riep, geroepen, call
+ruiken, rook, geroken, to smell
+schieten, schoot, geschoten, shoot
+schrijven, schreef, geschreven, to write
+schuiven, schoof, geschoven, to scroll
+slaan, sloeg, geslagen, to beat
+slapen, sliep, geslapen, to sleep
+sluiten, sloot, gesloten, Close
+snijden, sneed, gesneden, to cut
+spreken, sprak, gesproken, to speak
+springen, sprong, gesprongen, to jump
+staan, stond, gestaan, stand
+steken, stak, gestoken, stabbing
+stelen, stal, gestolen, steal
+sterven, stierf, gestorven, to die
+stijgen, steeg, gestegen, rise
+trekken, trok, getrokken, to pull
+toenemen, nam toe, toegenomen, increase
+vallen, viel, gevallen, fall
+vangen, ving, gevangen, to catch
+varen, voer, gevaren, sail
+vechten, vocht, gevochten, fight
+verdwijnen, verdween, verdwenen, to disappear
+vergeten, vergat, vergeten, to forget
+verkopen, verkocht, verkocht, to sell
+verliezen, verloor, verloren, to lose
+verschijnen, verscheen, verschenen, to show up
+verstaan, verstond, verstaan, understand
+vinden, vond, gevonden, find
+vliegen, vloog, gevlogen, fly
+vragen, vroeg, gevraagd, questions
+wassen, waste, gewassen, Wash
+wegen, woog, bewogen, weigh
+weten, wist, geweten, know
+wijzen, wees, gewezen, point
+winnen, won, gewonnen, to win
+worden, werd, geworden, turn into
+zeggen, zei, gezegd, say
+zien, zag, gezien, see
+zijn, was, geweest, to be
+zingen, zong, gezongen, to sing
+zitten, zat, gezeten, to sit
+zoeken, zocht, gezocht, Search
+zullen, zou, -, will
+zwemmen, zwom, gezwommen, swimming
+zwijgen, zweeg, gezwegen, keep silent
